@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "purpose": "Historical cost rates for financial projections",
+    "dataSource": "University Financial Records",
+    "lastUpdated": "2025-01-15",
+    "academicYearDefinition": "July 1 - June 30",
+    "notes": "FY2025 DVM fees temporarily reduced - use FY2024 for projections"
+  },
+  "costsByYear": {
+    "2019": {
+      "stipend": 24234,
+      "graFringeRate": 0.106,
+      "phd": {
+        "tuition": 10214,
+        "fees": 2281
+      },
+      "dvm": {
+        "year1": { "tuition": 33027, "fees": 2620 },
+        "year2": { "tuition": 33027, "fees": 2620 },
+        "year3": { "tuition": 44036, "fees": 3493 },
+        "year4": { "tuition": 22018, "fees": 1747 }
+      }
+    },
+    "2020": {
+      "stipend": 24816,
+      "graFringeRate": 0.084,
+      "phd": {
+        "tuition": 10520,
+        "fees": 2348
+      },
+      "dvm": {
+        "year1": { "tuition": 34679, "fees": 2699 },
+        "year2": { "tuition": 34679, "fees": 2699 },
+        "year3": { "tuition": 46238, "fees": 3599 },
+        "year4": { "tuition": 23119, "fees": 1799 }
+      }
+    },
+    "2021": {
+      "stipend": 25320,
+      "graFringeRate": 0.095,
+      "phd": {
+        "tuition": 10520,
+        "fees": 2348
+      },
+      "dvm": {
+        "year1": { "tuition": 34679, "fees": 2699 },
+        "year2": { "tuition": 34679, "fees": 2699 },
+        "year3": { "tuition": 46238, "fees": 3599 },
+        "year4": { "tuition": 23120, "fees": 1799 }
+      }
+    },
+    "2022": {
+      "stipend": 25836,
+      "graFringeRate": 0.100,
+      "phd": {
+        "tuition": 10834,
+        "fees": 2376
+      },
+      "dvm": {
+        "year1": { "tuition": 35718, "fees": 2855 },
+        "year2": { "tuition": 35718, "fees": 2855 },
+        "year3": { "tuition": 47624, "fees": 3807 },
+        "year4": { "tuition": 23812, "fees": 1903 }
+      }
+    },
+    "2023": {
+      "stipend": 26352,
+      "graFringeRate": 0.084,
+      "phd": {
+        "tuition": 10824,
+        "fees": 2704
+      },
+      "dvm": {
+        "year1": { "tuition": 36432, "fees": 2889 },
+        "year2": { "tuition": 36432, "fees": 2889 },
+        "year3": { "tuition": 48578, "fees": 3852 },
+        "year4": { "tuition": 24288, "fees": 1926 }
+      }
+    },
+    "2024": {
+      "stipend": 27144,
+      "graFringeRate": 0.075,
+      "phd": {
+        "tuition": 11159,
+        "fees": 2758
+      },
+      "dvm": {
+        "year1": { "tuition": 37890, "fees": 2943 },
+        "year2": { "tuition": 37890, "fees": 2943 },
+        "year3": { "tuition": 50521, "fees": 3924 },
+        "year4": { "tuition": 25260, "fees": 1962 }
+      }
+    },
+    "2025": {
+      "stipend": 28227,
+      "graFringeRate": 0.085,
+      "phd": {
+        "tuition": 11494,
+        "fees": 2819
+      },
+      "dvm": {
+        "year1": { "tuition": 39420, "fees": 2488 },
+        "year2": { "tuition": 39420, "fees": 2488 },
+        "year3": { "tuition": 52560, "fees": 3317 },
+        "year4": { "tuition": 26280, "fees": 1659 }
+      }
+    },
+    "2026": {
+      "stipend": 28788,
+      "graFringeRate": 0.101,
+      "phd": {
+        "tuition": 11839,
+        "fees": 2871
+      },
+      "dvm": {
+        "year1": { "tuition": 39422, "fees": 2538 },
+        "year2": { "tuition": 39422, "fees": 2538 },
+        "year3": { "tuition": 52562, "fees": 3574 },
+        "year4": { "tuition": 26806, "fees": 1692 }
+      }
+    }
+  }
+}
