@@ -1,0 +1,528 @@
+{
+  "metadata": {
+    "purpose": "Trainee overview and program information",
+    "lastUpdated": "2025-07-08",
+    "recordCount": 26
+  },
+  "trainees": [
+    {
+      "traineeId": "T01",
+      "traineeName":  "Nora Nealon",
+      "entryFiscalYear": 2015,
+      "phDGraduationYear": 2020,
+      "expectedGraduationYear": 2022,
+      "actualGraduationYear": 2022,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Elizabeth Ryan",
+        "coMentor": null,
+        "department": "ERHS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "CMB",
+        "currentYear": null,
+        "status": "graduated"
+      }
+    },
+    {
+      "traineeId": "T02",
+      "traineeName":  "Enrique Doster",
+      "entryFiscalYear": 2015,
+      "phDGraduationYear": 2020,
+      "expectedGraduationYear": 2022,
+      "actualGraduationYear": 2022,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Paul Morley",
+        "coMentor": null,
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "Path",
+        "currentYear": null,
+        "status": "graduated"
+      }
+    },
+    {
+      "traineeId": "T03",
+      "traineeName":  "Elena Pires",
+      "entryFiscalYear": 2016,
+      "phDGraduationYear": 2020,
+      "expectedGraduationYear": 2022,
+      "actualGraduationYear": 2022,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Claudia Wiese",
+        "coMentor": null,
+        "department": "ERHS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "CMB",
+        "currentYear": null,
+        "status": "graduated"
+      }
+    },
+    {
+      "traineeId": "T04",
+      "traineeName":  "Caitlin Daimon",
+      "entryFiscalYear": 2016,
+      "phDGraduationYear": 2021,
+      "expectedGraduationYear": 2023,
+      "actualGraduationYear": 2023,
+      "nihFellowship": true,
+      "mentor": {
+        "primary": "Shane Hentges",
+        "coMentor": null,
+        "department": "BMS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "BMS",
+        "currentYear": null,
+        "status": "graduated"
+      }
+    },
+    {
+      "traineeId": "T05",
+      "traineeName":  "Bethany Liebig",
+      "entryFiscalYear": 2017,
+      "phDGraduationYear": 2022,
+      "expectedGraduationYear": 2024,
+      "actualGraduationYear": 2022,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Laurie Goodrich",
+        "coMentor": null,
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "CS",
+        "currentYear": null,
+        "status": "graduated"
+      }
+    },
+    {
+      "traineeId": "T06",
+      "traineeName":  "Dylan Ammons",
+      "entryFiscalYear": 2018,
+      "phDGraduationYear": 2023,
+      "expectedGraduationYear": 2025,
+      "actualGraduationYear": 2025,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Steve Dow",
+        "coMentor": null,
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": null,
+        "status": "graduated"
+      }
+    },
+    {
+      "traineeId": "T07",
+      "traineeName":  "Jennifer Cao",
+      "entryFiscalYear": 2018,
+      "phDGraduationYear": 2023,
+      "expectedGraduationYear": 2025,
+      "actualGraduationYear": 2025,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Steve Dow",
+        "coMentor": null,
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": null,
+        "status": "graduated"
+      }
+    },
+    {
+      "traineeId": "T08",
+      "traineeName":  "Samuel Brill",
+      "entryFiscalYear": 2019,
+      "phDGraduationYear": 2024,
+      "expectedGraduationYear": 2026,
+      "actualGraduationYear":  null,
+      "nihFellowship": true,
+      "mentor": {
+        "primary": "Douglas Thamm",
+        "coMentor": null,
+        "department": "cs"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "CMB",
+        "currentYear": 8,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T09",
+      "traineeName":  "Carley Dearing",
+      "entryFiscalYear": 2019,
+      "phDGraduationYear": 2024,
+      "expectedGraduationYear": 2026,
+      "actualGraduationYear": null,
+      "nihFellowship": true,
+      "mentor": {
+        "primary": "Brent Myers",
+        "coMentor": null,
+        "department": "BMS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "BMS",
+        "currentYear": 8,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T10",
+      "traineeName":  "Laurel Haines",
+      "entryFiscalYear": 2020,
+      "phDGraduationYear": 2025,
+      "expectedGraduationYear": 2027,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Daniel Regan",
+        "coMentor": null,
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 7,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T11",
+      "traineeName":  "Katherine Williams",
+      "entryFiscalYear": 2020,
+      "phDGraduationYear": 2025,
+      "expectedGraduationYear": 2027,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Nicole Ehrhart",
+        "coMentor": null,
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "CS",
+        "currentYear": 7,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T12",
+      "traineeName":  "Emily Van Zeeland",
+      "entryFiscalYear": 2021,
+      "phDGraduationYear": 2025,
+      "expectedGraduationYear": 2027,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Katie Sikes",
+        "coMentor": "Jeremiah Easley",
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "CS",
+        "currentYear": 6,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T13",
+      "traineeName":  "Michelle Savran",
+      "entryFiscalYear": 2021,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2028,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Brian Foy",
+        "coMentor": "Gregory Ebel",
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 6,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T14",
+      "traineeName":  "Clara Reasoner",
+      "entryFiscalYear": 2022,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2029,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Tony Schountz",
+        "coMentor": null,
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 5,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T15",
+      "traineeName":  "Jesse Cole",
+      "entryFiscalYear": 2022,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2029,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Candace Mathiason",
+        "coMentor": null,
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 5,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T16",
+      "traineeName":  "Christian Cherry",
+      "entryFiscalYear": 2022,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2029,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Gregg Dean",
+        "coMentor": "Allison Vilander",
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 5,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T17",
+      "traineeName":  "Sara Cook",
+      "entryFiscalYear": 2023,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2030,
+      "actualGraduationYear": null,
+      "mentor": {
+        "primary": "Anne Avery",
+        "coMentor": null,
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 4,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T18",
+      "traineeName":  "Shayla Curry",
+      "entryFiscalYear": 2023,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2030,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Anne Avery",
+        "coMentor": null,
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 4,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T19",
+      "traineeName":  "Grace Jakes",
+      "entryFiscalYear": 2023,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2030,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Steve Dow",
+        "coMentor": "Sarah Raabis",
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 4,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T20",
+      "traineeName":  "Tatianna Travieso",
+      "entryFiscalYear": 2024,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2031,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Anne Avery",
+        "coMentor": "Emily Rout",
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 3,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T21",
+      "traineeName":  "Alex Stigall",
+      "entryFiscalYear": 2024,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2031,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Katie Sikes",
+        "coMentor": null,
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "CS",
+        "currentYear": 3,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T22",
+      "traineeName":  "Emma Szegvari",
+      "entryFiscalYear": 2024,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2031,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Amanda Woerman",
+        "coMentor": null,
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 3,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T23",
+      "traineeName":  "Elizabeth Esdaile",
+      "entryFiscalYear": 2025,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2032,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Jennifer Sones",
+        "coMentor": null,
+        "department": "CS"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "CS",
+        "currentYear": 2,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T24",
+      "traineeName":  "Kathryn McCabe",
+      "entryFiscalYear": 2025,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2032,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "Adam Harris",
+        "coMentor": null,
+        "department": "MIP"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 2,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T25",
+      "traineeName": "Julia Felder",
+      "entryFiscalYear": 2026,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2033,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "TBD",
+        "coMentor": null,
+        "department": "TBD"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH",
+        "currentYear": 1,
+        "status": "active"
+      }
+    },
+    {
+      "traineeId": "T26",
+      "traineeName": "Jasmine Mackey",
+      "entryFiscalYear": 2026,
+      "phDGraduationYear": null,
+      "expectedGraduationYear": 2033,
+      "actualGraduationYear": null,
+      "nihFellowship": false,
+      "mentor": {
+        "primary": "TBD",
+        "coMentor": null,
+        "department": "TBD"
+      },
+      "program": {
+        "type": "DVM/PhD",
+        "phdDegree": "PATH", 
+        "currentYear": 1,
+        "status": "active"
+      }
+    }
+  ]
+}
