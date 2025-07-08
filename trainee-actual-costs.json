@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "purpose": "Actual financial support records by trainee and fiscal year",
+    "lastUpdated": "2025-07-08",
+    "dataSource": "University Financial System",
+    "notes": "Amounts reflect actual payments, not budgeted amounts"
+  },
+  "supportRecords": [
+    {
+      "traineeId": "T01", 
+      "fiscalYear": 2015,
+      "programYear": 1,
+      "support": [
+        {
+          "type": "wages",
+          "amount": 19176,
+          "source": "DO"
+        },
+        {
+          "type": "fringe",
+          "amount": 1534,
+          "source": "DO"
+        },
+        {
+          "type": "tuition",
+          "amount": 9075,
+          "source": "DO",
+          "program": "phd"
+        }
+      ]
+    },
+    {
+      "traineeId": "T01", 
+      "fiscalYear": 2015,
+      "programYear": 1,
+      "support": [
+        {
+          "type": "wages",
+          "amount": 19176,
+          "source": "DO"
+        },
+        {
+          "type": "fringe",
+          "amount": 1534,
+          "source": "DO"
+        },
+        {
+          "type": "tuition",
+          "amount": 27474,
+          "source": "DO",
+          "program": "phd"
+        }
+      ]
+    },
+    {
+      "traineeId": "T01", 
+      "fiscalYear": 2015,
+      "programYear": 1,
+      "support": [
+        {
+          "type": "wages",
+          "amount": 19176,
+          "source": "DO"
+        },
+        {
+          "type": "fringe",
+          "amount": 1534,
+          "source": "DO"
+        },
+        {
+          "type": "tuition",
+          "amount": 27474,
+          "source": "DO",
+          "program": "phd"
+        }
+      ]
+    },
+    {
+      "traineeId": "T24",
+      "fiscalYear": 2025,
+      "programYear": 7,
+      "support": [
+        {
+          "type": "wages",
+          "amount": 35532,
+          "source": "DO"
+        },
+        {
+          "type": "fringe",
+          "amount": 224,
+          "source": "NIH"
+        },
+        {
+          "type": "tuition",
+          "amount": 16000,
+          "source": "NIH",
+          "program": "dvm"
+        }
+      ]
+    }
+  ]
+}
