@@ -17,12 +17,26 @@ Contains trainee enrollment records including:
 - Program status
 - Trainee identifiers
 
-### `program-rules.json`
+### 'trainee-actual-costs.json'
+Contains actual trainee costs by fiscal year including:
+- tuition
+- stipend
+- fringe
+- source of support: Dean's Office (DO), Mentor Support (MT), Provost Support (PV), MIP MS-B Support (MIP) or NIH training grants/ fellowships (NIH)
+- Where no support is indicated, it means that none of the above sources provided any support (trainee covered their own costs)
+
+### `historical-viewer-rules.json`
 Contains business logic and funding model rules including:
 - Default funding allocation by program year
 - T32 grant parameters
 - Projection assumptions
 
+### `projection-model-rules.json`
+Contains business logic and funding model rules including:
+- Default funding allocation by program year
+- T32 grant parameters
+- Projection assumptions
+  
 ## Data Structure
 
 All files follow consistent JSON formatting with:
@@ -43,4 +57,3 @@ July 8 2025
 - Oracle distributions (Oracle)
 - Accounts Receivable Operations (ARO Portal)
 - Graduate School Database (Ariesweb)
-
